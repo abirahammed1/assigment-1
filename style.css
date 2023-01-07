@@ -1,0 +1,158 @@
+*{margin: 0;
+  padding: 0;
+}
+.background-image{
+  background-image: url(images/banner/banner1.png);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.section-bar{
+  text-align: right;
+  padding: 400px;
+  font-weight: 400;
+font-size: 16px;
+}
+.title{
+  font-weight: 700;
+font-size: 65px;
+color: #151414;
+}
+.bio{
+  margin: 25px;
+  font-weight: 400;
+font-size: 16px;
+color: #444343;
+}
+.contact-us{
+  font-size: 20px;
+line-height: 23px;
+color: #FFFFFF;
+padding: 20px 25px;
+border: none;
+background-color:#F15B22;
+height: 64px;
+}
+
+/* sectioni bar2 */
+.section-bar1{
+  display: flex;
+  align-items: center;
+  gap:200px;
+  margin-bottom: 130px;
+  
+}
+
+.title-2{
+  font-weight: 700;
+  font-size: 40px; 
+  color: #151414;
+margin-bottom: 25px;
+}
+.bio2{
+  font-weight: 400;
+font-size: 16px;
+color: #444343;
+margin-bottom: 15px;
+}
+
+/* secton3 */
+.Tols-bar{
+  display: flex;
+  text-align: center;
+ justify-content: center;
+  gap: 100px;
+}
+.other{
+  text-align: center;
+  margin-bottom: 50px;
+  font-weight: 700;
+font-size: 40px;
+}
+
+.amr-plans{
+  margin-bottom: 130px;
+}
+/* section4 */
+
+.my-band{
+  background-image: url("images/gradient1.png"), url("images/watch.png");
+height: 30vh;
+width: 80%;
+background-repeat: no-repeat;
+background-size: cover;
+justify-content: center;
+margin: 0 200px;
+margin-bottom: 130px;
+}
+.workout{
+  padding:100px 100px ;
+}
+
+.mood{
+  font-weight: 700;
+  font-size: 40px; 
+  color: #FFFFFF;
+  margin-bottom: 25px;
+}
+.call{
+  height: 64px;
+  color: #F15B22;
+  font-weight: 600;
+font-size: 20px;
+padding: 20px 35px;
+border-radius: 5px;
+border: none;
+}
+
+/* section5
+ */
+ .email-adders{
+  height: 30px;
+  font-weight: 400;
+font-size: 18px;
+color: #F3F3F3;
+padding: 21px;
+ }
+ .end{
+  display: flex;
+  gap: 400px;
+  margin: 0 200px;
+  
+ }
+
+ .All-about{
+  background: #151414;
+  height: 40vh;
+
+   }
+  .about{
+margin-top: 100px;
+
+  }
+  .amr-id{
+    font-weight: 600;
+font-size: 25px;
+color: #FFFFFF;
+margin-bottom: 30px;
+  }
+  .email-adders{
+    font-weight: 400;
+font-size: 18px;
+color: #F3F3F3;
+margin-bottom: 15px;
+border-radius: 5px;
+border: 0;
+  }
+  .amr-future{
+    font-weight: 700;
+font-size: 45px;
+color: #F8F8F8;
+margin-bottom:15px ;
+  }
+  .amr-summary{
+    font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+margin-bottom: 20px;
