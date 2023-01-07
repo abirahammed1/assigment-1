@@ -33,6 +33,7 @@ padding: 20px 25px;
 border: none;
 background-color:#F15B22;
 height: 64px;
+border-radius: 5px;
 }
 
 /* sectioni bar2 */
@@ -117,7 +118,7 @@ padding: 21px;
  }
  .end{
   display: flex;
-  gap: 400px;
+  gap: 300px;
   margin: 0 200px;
   
  }
@@ -155,4 +156,8 @@ margin-bottom:15px ;
     font-weight: 400;
 font-size: 16px;
 color: #FFFFFF;
-margin-bottom: 20px;
+margin-bottom: 20px;}
+.ul{
+ padding-left: 15px;
+
+}
